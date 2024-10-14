@@ -12,3 +12,12 @@ spring:
 
 server:
   port: 9050
+
+camunda:
+  bpm:
+    admin-user:
+      id: demo
+      password: demo
+      first-name: Demo
+      last-name: Demo
+      email: sahalysyk02@mail.ru
